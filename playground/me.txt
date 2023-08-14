@@ -1,0 +1,5 @@
+{{#ayushkv}
+Name: Ayush
+Skills: HTML, CSS, JS, BOOTSTRAP, PYTHON, C/C++, GITHUB, GIT
+Email: ayushjkhr2000@gmail.com
+{{/ayushkv}}
